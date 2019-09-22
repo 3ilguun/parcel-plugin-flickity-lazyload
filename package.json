@@ -1,19 +1,20 @@
 {
-  "name": "parcel-plugin-lazy",
-  "version": "0.0.4",
-  "description": "Parcel plugin to support data-srcset and data-src",
+  "name": "parcel-plugin-flickity-lazyload",
+  "version": "0.0.5",
+  "description": "Parcel plugin to support data-flickity-lazyload, data-flickity-lazyload-src and data-flickity-lazyload-srcset",
   "main": "./index.js",
   "keywords": [
     "parcel",
     "lazy",
     "images",
-    "data-src",
-    "data-srcset"
+    "data-flickity-lazyload",
+    "data-flickity-lazyload-src",
+    "data-flickity-lazyload-srcset"
   ],
   "author": "Mateusz Kwasniewski",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kwasniew/parcel-plugin-lazy.git"
+    "url": "git://github.com/3ilguun/parcel-plugin-flickity-lazyload.git"
   },
   "license": "MIT",
   "dependencies": {
