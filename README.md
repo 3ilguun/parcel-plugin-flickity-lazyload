@@ -1,9 +1,9 @@
-# 📦 parcel-plugin-lazy
+# 📦 parcel-plugin-flickity-lazyload
 
-Adds `data-srcset` and `data-src` to the list of all attributes that may produce a dependency.
+Adds `data-flickity-lazyload`, `data-flickity-lazyload-src` and `data-flickity-lazyload-srcset` to the list of all attributes that may produce a dependency.
 
 ## Install
 
 ```bash
-npm install parcel-plugin-lazy -D
+npm i -D git@github.com:3ilguun/parcel-plugin-flickity-lazyload.git
 ```    
